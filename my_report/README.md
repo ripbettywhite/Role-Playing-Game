@@ -1,12 +1,12 @@
 # Lesson: Digital & Serious Games
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Digital & Serious Games Personal Repository: xxx
+### First and Last Name: Angelos Sokos First of his name
+### University Registration Number: dpsd16105
+### GitHub Personal Profile: https://github.com/ripbettywhite/Role-Playing-Game
+### Digital & Serious Games Personal Repository: https://ripbettywhite.github.io/Role-Playing-Game/
 
 # Introduction
-1 2 nai nai
+
 # Summary
 
 
