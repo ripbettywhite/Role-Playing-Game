@@ -13,14 +13,10 @@ O tropos me ton opoio mporeis na prostatepseis to artifact einai skotwnwntas tou
 pisteyeis mporeis na ta katafereis?
 
 # 1st Deliverable
-
-
+[dpsd16105 Sokos Angelos.pdf](https://github.com/ripbettywhite/Role-Playing-Game/files/10240445/dpsd16105.Sokos.Angelos.pdf)
 # 2nd Deliverable
 [oi lukoi epitithontai sto artifact.. to 2 (Paradoteo dpsd16105).pdf](https://github.com/ripbettywhite/Role-Playing-Game/files/10240439/oi.lukoi.epitithontai.sto.artifact.to.2.Paradoteo.dpsd16105.pdf)
-
-
 # 3rd Deliverable 
-
 
 # Conclusions
 poly endiaferon emmpeiria kai ama eixame perissotero xrono pisteyw mporousa na kanw polu pio megalo map kai isws diaforetikes pistes me diaforetikous exthrous.
