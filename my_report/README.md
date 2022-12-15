@@ -20,6 +20,7 @@ pisteyeis mporeis na ta katafereis?
 
 # Conclusions
 poly endiaferon emmpeiria kai ama eixame perissotero xrono pisteyw mporousa na kanw polu pio megalo map kai isws diaforetikes pistes me diaforetikous exthrous.
+sto paron version exw valei poly xrono kai polla spawn lukwn wste na ginei pio dyskolo kathw to map einai kapws mikro
 
 # Sources
 ola ta sources yparxoun mesa sto paradoteo
