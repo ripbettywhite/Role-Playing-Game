@@ -6,9 +6,11 @@
 ### Digital & Serious Games Personal Repository: https://ripbettywhite.github.io/Role-Playing-Game/
 
 # Introduction
-
+To paixnidi onomazetai oi lykoi epithontai sto artifact.. to 2.
 # Summary
-
+stoxos tou paixnidiou einai na prostatepseis to artifact to opoio vrisketai sto kentro tou map apo tous lukous oi opoioi prospathoun na to katastrepsoun.
+O tropos me ton opoio mporeis na prostatepseis to artifact einai skotwnwntas tous lukous kai me to na mazeueis frouta kai na ta phgaineis sto artifact gia na parei zwh.
+pisteyeis mporeis na ta katafereis?
 
 # 1st Deliverable
 
@@ -20,6 +22,7 @@
 
 
 # Conclusions
-
+poly endiaferon emmpeiria kai ama eixame perissotero xrono pisteyw mporousa na kanw polu pio megalo map kai isws diaforetikes pistes me diaforetikous exthrous.
 
 # Sources
+ola ta sources yparxoun mesa sto paradoteo
