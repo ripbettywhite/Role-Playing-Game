@@ -16,6 +16,7 @@ pisteyeis mporeis na ta katafereis?
 
 
 # 2nd Deliverable
+[oi lukoi epitithontai sto artifact.. to 2 (Paradoteo dpsd16105).pdf](https://github.com/ripbettywhite/Role-Playing-Game/files/10240439/oi.lukoi.epitithontai.sto.artifact.to.2.Paradoteo.dpsd16105.pdf)
 
 
 # 3rd Deliverable 
