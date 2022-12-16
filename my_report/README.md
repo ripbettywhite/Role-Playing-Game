@@ -17,6 +17,7 @@ pisteyeis mporeis na ta katafereis?
 # 2nd Deliverable
 [oi lukoi epitithontai sto artifact.. to 2 (Paradoteo dpsd16105).pdf](https://github.com/ripbettywhite/Role-Playing-Game/files/10240439/oi.lukoi.epitithontai.sto.artifact.to.2.Paradoteo.dpsd16105.pdf)
 # 3rd Deliverable 
+[oi lukoi epitithontai sto artifact.. to 2 (3o Paradoteo dpsd16105).pdf](https://github.com/ripbettywhite/Role-Playing-Game/files/10248631/oi.lukoi.epitithontai.sto.artifact.to.2.3o.Paradoteo.dpsd16105.pdf)
 
 # Conclusions
 poly endiaferon emmpeiria kai ama eixame perissotero xrono pisteyw mporousa na kanw polu pio megalo map kai isws diaforetikes pistes me diaforetikous exthrous.
