@@ -8,9 +8,7 @@
 # Introduction
 To paixnidi onomazetai oi lykoi epithontai sto artifact.. to 2.
 # Summary
-stoxos tou paixnidiou einai na prostatepseis to artifact to opoio vrisketai sto kentro tou map apo tous lukous oi opoioi prospathoun na to katastrepsoun.
-O tropos me ton opoio mporeis na prostatepseis to artifact einai skotwnwntas tous lukous kai me to na mazeueis frouta kai na ta phgaineis sto artifact gia na parei zwh.
-pisteyeis mporeis na ta katafereis?
+στόχος του παιχνιδιού είναι να προστατεύσεις το artifact απο τους λύκους μέχρι να τελειώσει ο χρόνος. Μάζεψε φρούτα για να γεμίσεις ζωή και πήγαινε γρήγορα να τα αφήσεις στο artifact.
 
 # 1st Deliverable
 [dpsd16105 Sokos Angelos.pdf](https://github.com/ripbettywhite/Role-Playing-Game/files/10240445/dpsd16105.Sokos.Angelos.pdf)
