@@ -185,8 +185,7 @@ scenes έμαθα να φτιάχνω απο το παραπάνω  βίντεο
 
 
 # Conclusions
-poly endiaferon emmpeiria kai ama eixame perissotero xrono pisteyw mporousa na kanw polu pio megalo map kai isws diaforetikes pistes me diaforetikous exthrous.
-sto paron version exw valei poly xrono kai polla spawn lukwn wste na ginei pio dyskolo kathw to map einai kapws mikro
+Πολύ ενδιαφέρον εμπειρία. Άμα είχαμε περισσότερο χρόνο θα έβαζα πολλά περισσότερα particles και σίγουρα ποικιλία απο πίστες. Ίσως κάποιο είδος quest που κατέληγε σε αναμέτρηση και όχι να είναι κατευθείαν το παιχνίδι με χρόνο και να βρίσκεσαι σε ''μάχη''
 
 # Sources
-ola ta sources yparxoun mesa sto paradoteo
+Ολα τα sources υπάρχουν μέσα στο παραδοτέο στο eclass. 
