@@ -11,7 +11,8 @@ To paixnidi onomazetai oi lykoi epithontai sto artifact.. to 2.
 στόχος του παιχνιδιού είναι να προστατεύσεις το artifact απο τους λύκους μέχρι να τελειώσει ο χρόνος. Μάζεψε φρούτα για να γεμίσεις ζωή και πήγαινε γρήγορα να τα αφήσεις στο artifact.
 
 # 1st Deliverable
-[dpsd16105 Sokos Angelos.pdf](https://github.com/ripbettywhite/Role-Playing-Game/files/10240445/dpsd16105.Sokos.Angelos.pdf)
+![Screenshot (84)](https://user-images.githubusercontent.com/115795433/212492702-6974c1b9-a975-4380-b84c-93684a11c019.png)
+
 # 2nd Deliverable
 [oi lukoi epitithontai sto artifact.. to 2 (Paradoteo dpsd16105).pdf](https://github.com/ripbettywhite/Role-Playing-Game/files/10240439/oi.lukoi.epitithontai.sto.artifact.to.2.Paradoteo.dpsd16105.pdf)
 # 3rd Deliverable 
